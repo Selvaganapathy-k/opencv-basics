@@ -36,11 +36,11 @@ Jupyter Notebook
 
 📂 Project Structure
 
-image-processing/
-│
+image-processing
+
 ├── opencv.ipynb
 
-├── sample_images/
+├── sample_images
 
 └── README.md
 
