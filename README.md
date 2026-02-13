@@ -39,7 +39,9 @@ Jupyter Notebook
 image-processing/
 │
 ├── opencv.ipynb
+
 ├── sample_images/
+
 └── README.md
 
 
