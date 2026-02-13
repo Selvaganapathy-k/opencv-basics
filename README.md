@@ -35,11 +35,13 @@ Matplotlib
 Jupyter Notebook
 
 📂 Project Structure
+
 image-processing/
 │
 ├── opencv.ipynb
 ├── sample_images/
 └── README.md
+
 
 🎯 Learning Objectives
 
